@@ -1,7 +1,7 @@
-📊 Tableau Global Health & Spotify Analysis — Data Technician Bootcamp
+# 📊 Tableau Global Health & Spotify Analysis — Data Technician Bootcamp
 A Tableau project completed during the Data Technician Bootcamp (Week 2, July 2026). This project focuses on building interactive dashboards, exploring global health trends, analysing Spotify music features, and developing strong data‑storytelling skills.
 
-🚀 Skills Demonstrated
+## 🚀 Skills Demonstrated
 Interactive Dashboards
 
 Filters, Slicers, and global filters
@@ -18,16 +18,22 @@ Retail & Sales Data Visualisation
 
 Dashboard publishing to Tableau Public
 
-📈 Project Overview
+## 📈 Project Overview
 This Tableau project uses two datasets:
 
 Gapminder Health Dataset — analysing global health trends
 
+<img width="1506" height="651" alt="image" src="https://github.com/user-attachments/assets/08daa03d-6771-40d9-8a97-3bf237155600" />
+
+
 Spotify Features Dataset — exploring music popularity and audio characteristics
+
+<img width="1535" height="748" alt="image" src="https://github.com/user-attachments/assets/e7e85eec-c825-42cb-bdaa-4df08c96de15" />
+
 
 The goal was to create clear, interactive dashboards that help organisations understand trends, compare metrics, and make data‑driven decisions.
 
-🌍 Global Health Dashboard (Gapminder)
+## 🌍 Global Health Dashboard (Gapminder)
 Life Expectancy by Continent
 Bar chart showing average life expectancy
 
@@ -67,10 +73,10 @@ Added interactive filters
 
 Published to Tableau Public
 
-🔗 Dashboard Link:  
+## 🔗 Dashboard Link:  
 https://public.tableau.com/views/GlobalHealthDashboard_17846423115410/GlobalHealthDashboard?:language=en-US&publish=yes (public.tableau.com in Bing)
 
-🎵 Spotify Music Analysis Dashboard
+## 🎵 Spotify Music Analysis Dashboard
 Key Findings
 “Pop is the most popular genre, while Children’s Music has the lowest popularity.
 Popular tracks often have higher danceability, though some exceptions exist.”
@@ -84,19 +90,13 @@ Popularity vs danceability scatter plot
 
 Additional charts exploring energy, valence, and tempo
 
-🔗 Dashboard Link:  
+## 🔗 Dashboard Link:  
 https://public.tableau.com/views/Book1_17849922798320/Dashboard1?:language=en-US&publish=yes (public.tableau.com in Bing)
 
-🧠 Insights & Reflections
+## 🧠 Insights & Reflections
 Global health dashboards help organisations (like the NHS) identify trends, plan healthcare strategies, and improve population outcomes.
 
 Tableau dashboards make complex data easy to understand through filters, colour coding, and interactive storytelling.
 
 Spotify analysis shows how audio features influence track popularity, helping businesses understand listener behaviour.
 
-📂 Repository Structure
-markdown
-├── data/                 # Gapminder & Spotify datasets
-├── tableau_workbooks/    # Tableau files
-├── dashboards/           # Exported dashboard images
-└── README.md             # Project summary
